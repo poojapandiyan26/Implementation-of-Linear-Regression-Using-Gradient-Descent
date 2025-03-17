@@ -52,14 +52,11 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![Screenshot (280)](https://github.com/user-attachments/assets/339b4c3a-6d78-4e1e-a550-c5aeb5762068)
-![Screenshot (281)](https://github.com/user-attachments/assets/752debe9-4cf0-495c-a1d7-05e7f8cd6872)
-![Screenshot (282)](https://github.com/user-attachments/assets/2505f3c7-7ee8-4d51-b4d6-b8e2465e48df)
-![Screenshot (283)](https://github.com/user-attachments/assets/4977abfb-0764-4c31-9ab3-a709d67a72a3)
-
-
-
-
+![Screenshot 2025-03-17 150447](https://github.com/user-attachments/assets/962873cd-0062-45d6-b4bf-f3a3777fa31f)
+![Screenshot 2025-03-17 150457](https://github.com/user-attachments/assets/d4490795-8f6a-400b-bc88-89ebef80f6fb)
+![Screenshot 2025-03-17 150504](https://github.com/user-attachments/assets/31a1358f-0cba-4977-94e3-ae5e119fa7d5)
+![Screenshot 2025-03-17 150512](https://github.com/user-attachments/assets/d53065a3-e895-4520-906d-97d9063bdf8d)
+![Screenshot 2025-03-17 150525](https://github.com/user-attachments/assets/9036210f-57fc-4f8c-8d38-8526f4687d5e)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
